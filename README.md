@@ -1,3 +1,5 @@
+![coolcat](https://cloud.githubusercontent.com/assets/3007012/14687337/e4a6c770-0734-11e6-8537-57b1419e0c2e.jpg)
+
 # cool
 Cool resources. Interesting list of Apps, links, tools, repositories... anything that might help with something.
 
