@@ -40,3 +40,6 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 
 ##### - RSS/Newsletters
  - [Natasha the Robot](https://swiftnews.curated.co/)
+
+##### - Job Listings
+ - [RemoteOk](https://remoteok.io/) - Remote jobs listings
