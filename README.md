@@ -19,12 +19,16 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 
 
 ##### Repositories
+ - [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh)
 ###### iOS tools
  - [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift
  
 ##### Tutorials
  - [Stanford - Developing iOS 9 Apps with Swift by Paul Hegarty](https://itunes.apple.com/gb/course/developing-ios-9-apps-swift/id1104579961)
+ - [Testing callbacks in swift](http://www.mokacoding.com/blog/testing-callbacks-in-swift-with-xctest/)
+ - [Adding text overlay to an image](http://www.theappguruz.com/blog/ios-text-overlay-image)
 ##### Blog posts
+ - [100 Blogs for iOS developers](http://www.softwarehow.com/best-blogs-for-ios-developers/) - 100 blogs for iOS developers
  - [Mac Apps](https://www.producthunt.com/@dustin/collections/menubar-apps) - Menu Bar Mac Apps
  - [Eidolon Review](http://artsy.github.io/blog/2016/01/14/eidolon-code-review/) - Artsy's Eidolon open source app video review
 
@@ -41,6 +45,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 
 ##### - RSS/Newsletters
  - [Natasha the Robot](https://swiftnews.curated.co/)
+ - [Mokacoding](http://www.mokacoding.com/)
 
 ##### - Job Listings
  - [RemoteOk](https://remoteok.io/) - Remote jobs listings
