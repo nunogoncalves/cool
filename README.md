@@ -26,6 +26,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
  - [Stanford - Developing iOS 9 Apps with Swift by Paul Hegarty](https://itunes.apple.com/gb/course/developing-ios-9-apps-swift/id1104579961)
 ##### Blog posts
  - [Mac Apps](https://www.producthunt.com/@dustin/collections/menubar-apps) - Menu Bar Mac Apps
+ - [Eidolon Review](http://artsy.github.io/blog/2016/01/14/eidolon-code-review/) - Artsy's Eidolon open source app video review
 
 ##### Articles
  - [iOS Feature Testing](https://github.com/joemasilotti/ios-feature-testing)
