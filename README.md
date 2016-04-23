@@ -15,11 +15,14 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 ##### MacOS Apps
 - [ClipMenu](http://www.clipmenu.com/) - Clipboard Manager for Mac OS X
 - [Paste](https://itunes.apple.com/app/id967805235) - Clipboard history manager for your Mac
-- [Escape](https://itunes.apple.com/us/app/escape-by-focuslist-track/id1090969894) - Track how often you check email & other distracting websites
+- [Escape](https://itunes.apple.com/us/app/escape-by-focuslist-track/id1090969894) - Track how often you check email & other distracting 
+
+##### websites
 
 
 ##### Repositories
  - [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh)
+
 ###### iOS tools
  - [Static](https://github.com/venmo/Static) - Simple static table views for iOS in Swift
  
