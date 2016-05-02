@@ -51,5 +51,8 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
  - [Natasha the Robot](https://swiftnews.curated.co/)
  - [Mokacoding](http://www.mokacoding.com/)
 
+##### - Stack Overflow
+ - [Xcode debugger in different window](http://stackoverflow.com/questions/7115283/how-to-show-xcode-debugger-in-a-window-separate-from-xcode)
+
 ##### - Job Listings
  - [RemoteOk](https://remoteok.io/) - Remote jobs listings
