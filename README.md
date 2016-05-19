@@ -7,6 +7,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 - [Github Awards](https://github-awards.com) - Rank users based on github repositories' number of stars
 - [Images to PDF](https://smallpdf.com/jpg-to-pdf) - Create PDF documents with images
 - [Glot](https://glot.io/) - an open source pastebin with runnable snippets and API.
+- [Fast](https://fast.com/pt/) - Speed test by Netflix
 
 ##### iOS Apps
 - [OctoPodium](https://itunes.apple.com/app/octopodium/id1077519133) - Rank users based on github repositories' number of stars
