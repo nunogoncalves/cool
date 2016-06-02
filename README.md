@@ -42,6 +42,8 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
  
 ##### Articles
  - [iOS Feature Testing](https://github.com/joemasilotti/ios-feature-testing)
+ - [Swift NSNotifications with POP](https://medium.com/swift-programming/swift-nsnotificationcenter-protocol-c527e67d93a1#.dsr4o2t03)
+ - [Swift bindings](http://five.agency/solving-the-binding-problem-with-swift/)
 
 ##### Links
  - [iOS Version Breakdown](https://developer.apple.com/support/app-store/) - Link to see the iOs versions usage
