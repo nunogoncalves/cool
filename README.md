@@ -48,6 +48,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 ##### Links
  - [iOS Version Breakdown](https://developer.apple.com/support/app-store/) - Link to see the iOs versions usage
  - [Flaticon](http://www.flaticon.com/) - List of free vector icons
+ - [Color Code Converter](http://www.javascripter.net/faq/rgbtohex.htm) - Color code converter
 
 ##### Talks
  - [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) - Rich Hickey emphasizes simplicity’s virtues over easiness
