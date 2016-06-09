@@ -54,6 +54,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 ##### Talks
  - [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) - Rich Hickey emphasizes simplicity’s virtues over easiness
  - [Creating a Swift library](https://realm.io/news/tryswift-jeff-hui-creating-a-swift-library/)
+ - [Talking about Fabric iOS app](https://realm.io/news/slug-javi-soto-building-fabric-in-swift/)
 
 ##### - RSS/Newsletters
  - [Natasha the Robot](https://swiftnews.curated.co/)
