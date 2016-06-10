@@ -70,3 +70,4 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 
 ##### - Job Listings
  - [RemoteOk](https://remoteok.io/) - Remote jobs listings
+ - [WhoIsHiring](https://whoishiring.io/)
