@@ -40,6 +40,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
  - [Testing callbacks in swift](http://www.mokacoding.com/blog/testing-callbacks-in-swift-with-xctest/)
  - [Adding text overlay to an image](http://www.theappguruz.com/blog/ios-text-overlay-image)
  - [Submit an app to the app store from no apple id to app store.](https://www.raywenderlich.com/127936/submit-an-app-part-1)
+ - [SQL begginers guide](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)
  
 ##### Blog posts
  - [100 Blogs for iOS developers](http://www.softwarehow.com/best-blogs-for-ios-developers/) - 100 blogs for iOS developers
