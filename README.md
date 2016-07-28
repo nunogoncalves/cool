@@ -7,7 +7,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 - [Images to PDF](https://smallpdf.com/jpg-to-pdf) - Create PDF documents with images
 - [Glot](https://glot.io/) - an open source pastebin with runnable snippets and API.
 - [Fast](https://fast.com/pt/) - Speed test by Netflix
--[CodeBeauty](http://codebeautify.org) - Multiple useful developer tools
+- [CodeBeauty](http://codebeautify.org) - Multiple useful developer tools
 
 ###### Github
 - [Github Awards](https://github-awards.com) - Rank users based on github repositories' number of stars
