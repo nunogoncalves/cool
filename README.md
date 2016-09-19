@@ -45,6 +45,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
  - [iOS managing multiple environments](http://www.blackdogfoundry.com/blog/migrating-ios-app-through-multiple-environments/)
  
 ##### Blog posts
+ - [Apple on JSON parsing](https://developer.apple.com/swift/blog/?id=37)
  - [100 Blogs for iOS developers](http://www.softwarehow.com/best-blogs-for-ios-developers/) - 100 blogs for iOS developers
  - [Mac Apps](https://www.producthunt.com/@dustin/collections/menubar-apps) - Menu Bar Mac Apps
  - [Eidolon Review](http://artsy.github.io/blog/2016/01/14/eidolon-code-review/) - Artsy's Eidolon open source app video review
