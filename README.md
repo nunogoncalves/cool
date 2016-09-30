@@ -60,6 +60,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 - [Profiling compilation times](http://irace.me/swift-profiling)
 ##### Links
  - [iOS Version Breakdown](https://developer.apple.com/support/app-store/) - Link to see the iOs versions usage
+ - [iOS Version Breakdown](https://mixpanel.com/trends/#report/ios_10/) - Adoption rate iOS10
  - [Flaticon](http://www.flaticon.com/) - List of free vector icons
  - [Color Code Converter](http://www.javascripter.net/faq/rgbtohex.htm) - Color code converter
 
