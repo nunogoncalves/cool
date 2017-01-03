@@ -9,12 +9,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 - [Fast](https://fast.com/pt/) - Speed test by Netflix
 - [CodeBeauty](http://codebeautify.org) - Multiple useful developer tools
 
-###### Github
-- [Github Awards](https://github-awards.com) - Rank users based on github repositories' number of stars
-- [Githut](http://githut.info/)
-- [Github Stats](http://githubstats.lip.is/)
-- [Explain Git With D3](http://www.wei-wang.com/ExplainGitWithD3/#)
-
+##### [Github](github.md)
 
 ##### iOS Apps
 - [OctoPodium](https://itunes.apple.com/app/octopodium/id1077519133) - Rank users based on github repositories' number of stars
