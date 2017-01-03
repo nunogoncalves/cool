@@ -84,7 +84,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 
 ##### - Interview Questions and Exercises
 - [Project Euler](https://projecteuler.net/problem=1)
-- [Online Exercises - We ♥️ Swift] https://www.weheartswift.com/online-exercises/
+- [Online Exercises - We ♥️ Swift](https://www.weheartswift.com/online-exercises/)
 
 ##### - Other cool stuff
  - [AltWork station](https://www.youtube.com/watch?v=eHdShyF9x7U)
