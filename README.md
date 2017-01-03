@@ -76,6 +76,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 
 ##### - Stack Overflow
  - [Xcode debugger in different window](http://stackoverflow.com/questions/7115283/how-to-show-xcode-debugger-in-a-window-separate-from-xcode)
+ - [iOS gradient effect over UILabel](http://stackoverflow.com/questions/30890446/ios-gradient-effect-over-uilabel)
 
 ##### - Job Listings
  - [RemoteOk](https://remoteok.io/) - Remote jobs listings
