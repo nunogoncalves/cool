@@ -1,0 +1,4 @@
+- [Github Awards](https://github-awards.com) - Rank users based on github repositories' number of stars
+- [Githut](http://githut.info/)
+- [Github Stats](http://githubstats.lip.is/)
+- [Explain Git With D3](http://www.wei-wang.com/ExplainGitWithD3/#)
