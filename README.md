@@ -70,6 +70,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
  - [Talking about Fabric iOS app](https://realm.io/news/slug-javi-soto-building-fabric-in-swift/)
  - [WWDC links](https://devimages-cdn.apple.com/wwdc-services/g7tk3guq/xhgbpyutb6wvn2xcrbcz/wwdc.json)
  - [WWDC videos urls](https://devimages-cdn.apple.com/wwdc-services/g7tk3guq/xhgbpyutb6wvn2xcrbcz/videos.json)
+ - [Simon Sinek - Millennials in the Workplace](https://www.youtube.com/watch?v=5MC2X-LRbkE) 🌟
 ##### - RSS/Newsletters
  - [Natasha the Robot](https://swiftnews.curated.co/)
  - [Mokacoding](http://www.mokacoding.com/)
@@ -89,3 +90,8 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 
 ##### - Other cool stuff
  - [AltWork station](https://www.youtube.com/watch?v=eHdShyF9x7U)
+ 
+<details>
+<summary>Other Cool Stuff</summary>
+ - [AltWork station](https://www.youtube.com/watch?v=eHdShyF9x7U)
+</details>
