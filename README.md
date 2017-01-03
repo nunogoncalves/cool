@@ -75,6 +75,9 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
  - [Xcode debugger in different window](http://stackoverflow.com/questions/7115283/how-to-show-xcode-debugger-in-a-window-separate-from-xcode)
  - [iOS gradient effect over UILabel](http://stackoverflow.com/questions/30890446/ios-gradient-effect-over-uilabel)
 
+##### - Docs 
+ - [iOS Face detection](https://developer.apple.com/reference/coreimage/cidetector)
+
 ##### - Job Listings
  - [RemoteOk](https://remoteok.io/) - Remote jobs listings
  - [WhoIsHiring](https://whoishiring.io/)
