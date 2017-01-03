@@ -66,6 +66,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
  - [WWDC links](https://devimages-cdn.apple.com/wwdc-services/g7tk3guq/xhgbpyutb6wvn2xcrbcz/wwdc.json)
  - [WWDC videos urls](https://devimages-cdn.apple.com/wwdc-services/g7tk3guq/xhgbpyutb6wvn2xcrbcz/videos.json)
  - [Simon Sinek - Millennials in the Workplace](https://www.youtube.com/watch?v=5MC2X-LRbkE) 🌟
+ 
 ##### - RSS/Newsletters
  - [Natasha the Robot](https://swiftnews.curated.co/)
  - [Mokacoding](http://www.mokacoding.com/)
