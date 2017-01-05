@@ -39,6 +39,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
  - [Submit an app to the app store from no apple id to app store.](https://www.raywenderlich.com/127936/submit-an-app-part-1)
  - [SQL begginers guide](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/)
  - [iOS managing multiple environments](http://www.blackdogfoundry.com/blog/migrating-ios-app-through-multiple-environments/)
+ - [Git tutorial course](https://www.youtube.com/watch?v=_vEPmy31XDE&index=1&list=PLEIPSRdn5KEoLbRZJuS4bLlldQ4wiA5Nf)
  
 ##### Blog posts
  - [Apple on JSON parsing](https://developer.apple.com/swift/blog/?id=37)
