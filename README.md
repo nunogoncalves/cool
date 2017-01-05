@@ -8,6 +8,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 - [Glot](https://glot.io/) - an open source pastebin with runnable snippets and API.
 - [Fast](https://fast.com/pt/) - Speed test by Netflix
 - [CodeBeauty](http://codebeautify.org) - Multiple useful developer tools
+- [Scarpfy](https://scrapfy.io) - Allow multiple developers to code in the same file.
 
 ##### [Github](github.md)
 
