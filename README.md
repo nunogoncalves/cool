@@ -79,6 +79,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 
 ##### - Docs 
  - [iOS Face detection](https://developer.apple.com/reference/coreimage/cidetector)
+ - [Learn Languages Syntax (LearnXinYMinutes)](https://learnxinyminutes.com/)
 
 ##### - Job Listings
  - [RemoteOk](https://remoteok.io/) - Remote jobs listings
