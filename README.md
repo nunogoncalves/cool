@@ -9,6 +9,7 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
 - [Fast](https://fast.com/pt/) - Speed test by Netflix
 - [CodeBeauty](http://codebeautify.org) - Multiple useful developer tools
 - [Scarpfy](https://scrapfy.io) - Allow multiple developers to code in the same file.
+- [XML tools](http://codebeautify.org/xmlviewer) - XML loader / formatter / parser / converter
 
 ##### [Github](github.md)
 
