@@ -81,6 +81,9 @@ Cool resources. Interesting list of Apps, links, tools, repositories... anything
  - [RemoteOk](https://remoteok.io/) - Remote jobs listings
  - [WhoIsHiring](https://whoishiring.io/)
  - [RemoteBase](https://remotebase.io/)
+ - [Angel List](https://angel.co/)
+ - [XcodeJobs](https://xcodejobs.com/)
+ - [We Work Remotely](https://weworkremotely.com/)
 
 ##### - Interview Questions and Exercises
 - [Project Euler](https://projecteuler.net/problem=1)
